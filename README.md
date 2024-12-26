@@ -12,11 +12,11 @@
 
 ###
 
-<h2 align="left">Hi! I'm Kensho~</h2>
+<h2 align="left">Hi! I'm Juanse~</h2>
 
 ###
 
-<p align="left">I'm a Programming Technician.<br>I'm from Argentina and I love technology.<br>Welcome to my GitHub profile 😁<br>Enjoy it!</p>
+<p align="left">I am a graduate of the Systems Analyst program at O.R.T.<br>I'm from Argentina and I love technology.<br>Welcome to my GitHub profile 😁<br>Enjoy it!</p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">✨ Creating errors since I can remember.<br>📚 Always looking to learn new things related to technology.<br>🎯 Interested in AI, cybersecurity and application programming.<br>🎲 Hobbies: Videogames and Kung Fu</p>
+<p align="left">✨ Creating errors since I can remember.<br>📚 Always looking to learn new things related to technology.<br>🎯 Interested in Front and Backend development, I want to study Machine Learning in the future<br>🎲 Hobbies: Bartender, Videogames and Padel!</p>
 
 ###
 
@@ -35,27 +35,18 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
+  <img width = "20" />
+  <img stc= "https://static.cdnlogo.com/logos/r/63/react.svg" height = "35" alt = "react logo">
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" alt="oracle logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
   <img width="20" />
