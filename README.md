@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/xKensho47/xKensho47/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/juanmotok32/juanmotok32/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -34,9 +34,11 @@
 
 ###
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
 <div align="center">
   <img width = "20" />
-  <img stc= "https://static.cdnlogo.com/logos/r/63/react.svg" height = "35" alt = "react logo">
+  <img stc= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height = "35" alt = "react logo">
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="20" />
